@@ -1,0 +1,7 @@
+langchain
+streamlit
+openai
+tiktoken
+langchain-openai
+langchain_experimental
+tabulate 
